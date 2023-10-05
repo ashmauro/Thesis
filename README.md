@@ -17,7 +17,3 @@ Email: yang.du@jcu.edu.au
 
 Alan Louis (Industry Supervisor)
 Email: alan.louis@energyq.com.au
-![image](https://github.com/ashmauro/Thesis/assets/88524239/ed1b9ff6-3492-4a2e-967a-14e28aa2a3e1)
-
-
-
